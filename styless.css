@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(51, 51, 94);
+}
+.sectionting {
+    background-color: #101820FF;
+}
+.navbarSizes {
+    font-size: 150%;
+}
+.rowWidth {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    color: #9CC3D5FF;
+    margin: 10% 10%;
+    width: fit-content;
+    line-height: 2;
+}
+.imageSize {
+    width: 150%;
+}
+.container-fluid {
+    padding: 3% 15%;
+}
+button {
+    margin-left: 1%;
+}
+.senj {
+    width: 80%;
+    border-radius: 25%;
+}
+.other {
+    width: 60%;
+    border-radius: 25%;
+    
+}
+.miku {
+    border-radius: 100%;
+}
+p {
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.senjKur {
+    font-family: fantasy;
+}
+.footer {
+    background-color: #101820FF;
+}
+.header {
+    font-family:"Brush Script MT", cursive;
+    font-size: 250%;
+    color:rgb(123, 123, 241);
+}
+#testimonials {
+    margin: 10%;
+}
+.imageTestimonial {
+    width: 40%;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #9CC3D5FF;
+}
+@media (max-width: 900px) {
+    .miku {
+        width:40%;
+    }
+    .rowWidth {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 120%;
+        color: #9CC3D5FF;
+        margin: 10% 10%;
+        width: fit-content;
+        line-height: 2;
+    }
+    .imageTestimonial {
+        width: 100%;
+    }
+}
